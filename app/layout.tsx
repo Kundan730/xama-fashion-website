@@ -16,19 +16,19 @@ export const metadata: Metadata = {
   icons: {
     icon: [
       {
-        url: "/icon-light-32x32.png",
+        url: "/Gemini_Generated_Image_lzqed8lzqed8lzqe.png",
         media: "(prefers-color-scheme: light)",
       },
       {
-        url: "/icon-dark-32x32.png",
+        url: "/Gemini_Generated_Image_lzqed8lzqed8lzqe.png",
         media: "(prefers-color-scheme: dark)",
       },
       {
-        url: "/icon.svg",
+        url: "/Gemini_Generated_Image_lzqed8lzqed8lzqe.svg",
         type: "image/svg+xml",
       },
     ],
-    apple: "/apple-touch-icon.png",
+    apple: "/Gemini_Generated_Image_lzqed8lzqed8lzqe.png",
   },
 }
 
