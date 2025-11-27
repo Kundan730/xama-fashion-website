@@ -1,0 +1,13 @@
+var R=require("../../chunks/ssr/[turbopack]_runtime.js")("server/app/_not-found/page.js")
+R.c("server/chunks/ssr/xama-fashion-website (2)_4c3fc9fc._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__e032237f._.js")
+R.c("server/chunks/ssr/d2564_next_dist_esm_build_templates_app-page_b2356d8e.js")
+R.c("server/chunks/ssr/[root-of-the-server]__545c6d59._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__5de298b7._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__9b37a8f7._.js")
+R.c("server/chunks/ssr/[root-of-the-server]__c5de8d8d._.js")
+R.c("server/chunks/ssr/d2564_next_dist_client_components_8efb4f64._.js")
+R.c("server/chunks/ssr/d2564_next_dist_client_components_builtin_forbidden_7dbf85d8.js")
+R.c("server/chunks/ssr/b4d27_a-fashion-website (2)__next-internal_server_app__not-found_page_actions_455a9b29.js")
+R.m(97493)
+module.exports=R.m(97493).exports

@@ -1,0 +1,3 @@
+module.exports=[30438,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(45571);a.n(d("[project]/xama-fashion-website (2)/node_modules/next/dist/client/components/builtin/global-error.js <module evaluation>"))},75872,(a,b,c)=>{let{createClientModuleProxy:d}=a.r(45571);a.n(d("[project]/xama-fashion-website (2)/node_modules/next/dist/client/components/builtin/global-error.js"))},63726,a=>{"use strict";a.i(30438);var b=a.i(75872);a.n(b)}];
+
+//# sourceMappingURL=d2564_next_dist_client_components_builtin_global-error_a430037d.js.map
