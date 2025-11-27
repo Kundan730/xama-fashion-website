@@ -11,7 +11,6 @@ export const metadata: Metadata = {
   title: "XAMA – Premium Men's Fashion Coming Soon",
   description:
     "Affordable premium men's clothing, launching soon on xama.in. Get exclusive early access to stylish and trendy men's fashion.",
-  generator: "v0.app",
   keywords: ["men's fashion", "affordable clothing", "premium fashion", "XAMA", "men's wear"],
   icons: {
     icon: [
